@@ -2,7 +2,7 @@ site_name: IAW
 
 nav:
     - WordPress_Ansible: practica1.md
-    - Acerca de: about.md
+    - Terraform: practica2.md
 
 theme:
   name: material
